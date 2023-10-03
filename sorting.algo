@@ -15,5 +15,5 @@ BEGIN
     END_WHILE
     Arr[J+1]:= Key
     END_FOR
-    Write(Arr) // this is the sorted array
+    Write(Arr) // this is the sorted array 
 END
